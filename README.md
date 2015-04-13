@@ -1,6 +1,6 @@
 # Fox-Framework
 
-FOX é um Framework Front-end com ojetivo de descomplicar e acelerar o desenvolvimento de Interface e Design de novos Sistemas.
+FOX é um Framework Front-end com objetivo de descomplicar e acelerar o desenvolvimento de Interface e Design de novos Sistemas.
 Com módulo de Customização de componentes o desenvolvedor pode montar uma interface completa para seu sistema em poucos minutos, deixando-o com a sua identidade visual.
 
 Podendo ser implementado em qualquer linguagem de programação WEB, de maneira prática e rápida, o Framework Fox utiliza componetes prontos em HTML, CSS e JavaScript visando melhorar a Interface e o Desempenho do Sistema de forma amigável.
