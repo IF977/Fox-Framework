@@ -58,46 +58,41 @@ Súmario
  06. Premissas
  
   - O framework deve ser entregue dentro do prazo estipulado;
- 	- O framework deve ter componentes de alto nível;
- 	- O framework deve ter o menor tamanho possivel;
- 	- O framework deve ter a maior abrangencia de componentes (HTML, CSS e JS) possivel, tendo controle de Inteface x Desempenho;
+  - O framework deve ter componentes de alto nível;
+  - O framework deve ter o menor tamanho possivel;
+  - O framework deve ter a maior abrangencia de componentes (HTML, CSS e JS) possivel, tendo controle de Inteface x Desempenho;
 
  07. Restrições
  
   - Entrega limite: 30/06/2015
-	- Lingaugem estabelecida : HTML, CSS, JavaScript, jQuery e  Ruby on Rails.
-	- Tamanho do framework não pode ultrapassar 5,0 MB
+  - Lingaugem estabelecida : HTML, CSS, JavaScript, jQuery e  Ruby on Rails.
+  - Tamanho do framework não pode ultrapassar 5,0 MB
 	
-	08. Partes Interessadas
+ 08. Partes Interessadas
 	
-	 - Qualquer Desenvolvedor WEB.
-	 - Qualquer Úsuario que deseje criar uma interface WEB ( Site / Sistema )
+   - Qualquer Desenvolvedor WEB.
+   - Qualquer Úsuario que deseje criar uma interface WEB ( Site / Sistema )
    - Qualquer empresa que deseje usar o framework como padronização do seu UX / UI Design.
    
   09. Membros da Equipe
   
-   Gerente do Projeto / Desenvolvedor do Projeto - Rodrigo Santos
+    Gerente do Projeto / Desenvolvedor do Projeto - Rodrigo Santos
   
-   10. Cronograma 
+  10. Cronograma 
    
-   À definir 
+    À definir 
    
-   11.  Marco 
+  11. Marco 
    
-   Entrega do Projeto : 30/06/2015 
-	 Apresentação do Projeto : 30/06/2015
+    Entrega do Projeto : 30/06/2015 
+    Apresentação do Projeto : 30/06/2015
 	 
-	 12. Acompanhamento do Projeto
+  12. Acompanhamento do Projeto
 	 
-	 O Projeto está sendo acompanhado pelas Ferramentas : GitHub e PivotalTracker.
+    O Projeto está sendo acompanhado pelas Ferramentas : GitHub e PivotalTracker.
 	 
-	 13. Histórico
-	 
-	 Criação do Projeto - 
-	 Project Charter - 14/04/2015
-	 Criação da tela inical - Em desenvolvimento.
-
-	
-	
-
-
+   13. Histórico
+    	 
+     Criação do Projeto - 
+     Project Charter - 14/04/2015
+     Criação da tela inical - Em desenvolvimento.
