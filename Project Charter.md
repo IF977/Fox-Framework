@@ -1,8 +1,8 @@
 #Fox Framework
 
-Elaborado por: Rodrigo Santos
-Data 14/04/2015
-v1.0
+Elaborado por: Rodrigo Santos <br/>
+Data 14/04/2015 <br/>
+v1.0 <br/>
 
 Súmario
 * 01. Justificativa do Projeto 
