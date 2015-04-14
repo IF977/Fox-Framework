@@ -19,8 +19,8 @@ Súmario
 * 12. Acompanhamento do Projeto 
 * 13. Histórico do Projeto
 
- O presente termo tem como objetivo formalizar a inicialização do projeto, definindo metódos de gerencimanento, 
- planejamento, e visa relatar os documentos das suas principais entregas.
+	 O presente termo tem como objetivo formalizar a inicialização do projeto, definindo metódos de gerencimanento, 
+	 planejamento, e visa relatar os documentos das suas principais entregas.
  
  01.  Justificativa do Projeto
  
