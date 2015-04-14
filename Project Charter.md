@@ -23,7 +23,7 @@ Súmario
  O presente termo tem como objetivo formalizar a inicialização do projeto, definindo metódos de gerencimanento, 
  planejamento, e visa relatar os documentos das suas principais entregas.
  
- 01.  Justificativa do Projeto
+ **01.  Justificativa do Projeto**
  
  Dentro da área de elaboração e construção de sistemas existem dois lados opostos que devem trabalhar em 
  conjunto para o melhor resultado do sistema. O Back-end e o Front-end, mas nem sempre o desenvolvimento dos 
