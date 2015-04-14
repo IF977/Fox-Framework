@@ -74,7 +74,8 @@ Súmario
    - Qualquer Desenvolvedor WEB.
    - Qualquer Úsuario que deseje criar uma interface WEB ( Site / Sistema )
    - Qualquer empresa que deseje usar o framework como padronização do seu UX / UI Design.
-   - 
+   
+
  **09. Membros da Equipe**
   
     Gerente do Projeto / Desenvolvedor do Projeto - Rodrigo Santos
