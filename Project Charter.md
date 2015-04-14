@@ -65,17 +65,16 @@ Súmario
 
  **07. Restrições**
  
-  - Entrega limite: 30/06/2015
-  - Lingaugem estabelecida : HTML, CSS, JavaScript, jQuery e  Ruby on Rails.
-  - Tamanho do framework não pode ultrapassar 5,0 MB
+  - Entrega limite: 30/06/2015;
+  - Lingaugem estabelecida : HTML, CSS, JavaScript, jQuery e  Ruby on Rails;
+  - Tamanho do framework não pode ultrapassar 5,0 MB;
 	
  **08. Partes Interessadas**
 	
-   - Qualquer Desenvolvedor WEB.
-   - Qualquer Úsuario que deseje criar uma interface WEB ( Site / Sistema )
-   - Qualquer empresa que deseje usar o framework como padronização do seu UX / UI Design.
+   - Qualquer Desenvolvedor WEB;
+   - Qualquer Úsuario que deseje criar uma interface WEB ( Site / Sistema );
+   - Qualquer empresa que deseje usar o framework como padronização do seu UX / UI Design;
    
-
  **09. Membros da Equipe**
   
     Gerente do Projeto / Desenvolvedor do Projeto - Rodrigo Santos
@@ -95,7 +94,6 @@ Súmario
 	 
    **13. Histórico**
     	 
-     Criação do Projeto - 
      Project Charter - 14/04/2015
      Criação da tela inical - Em desenvolvimento.
 
