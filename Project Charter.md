@@ -88,8 +88,8 @@ Súmario
    
   **11. Marco**
    
-    Entrega do Projeto : 30/06/2015 
-    Apresentação do Projeto : 30/06/2015
+    Entrega do Projeto : 30/06/2015 <br/>
+    Apresentação do Projeto : 30/06/2015  <br/>
 	 
   **12. Acompanhamento do Projeto**
 	 
@@ -97,7 +97,7 @@ Súmario
 	 
    **13. Histórico**
     	 
-     Project Charter - 14/04/2015
-     Criação da tela inical - Em desenvolvimento.
+     Project Charter - 14/04/2015  <br/>
+     Criação da tela inical - Em desenvolvimento.  <br/>
 
 <hr/>
