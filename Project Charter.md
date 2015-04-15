@@ -19,21 +19,22 @@ Súmario
 * 12. Acompanhamento do Projeto 
 * 13. Histórico do Projeto
 
+<hr/>
 
- O presente termo tem como objetivo formalizar a inicialização do projeto, definindo metódos de gerencimanento, 
- planejamento, e visa relatar os documentos das suas principais entregas.
+ O presente termo tem como objetivo formalizar o início do projeto, definindo metódos de gerencimanento, 
+ planejamento, e visando relatar a documentação das suas principais entregas.
  
  **01.  Justificativa do Projeto**
  
  Dentro da área de elaboração e construção de sistemas existem dois lados opostos que devem trabalhar em 
- conjunto para o melhor resultado do sistema. O Back-end e o Front-end, mas nem sempre o desenvolvimento dos 
- dois lados é feito da melhor forma . Pensando nisso o Fox Framework surgiu com o objetivo de facilitar a mão 
+ conjunto para o melhor resultado do sistema. O *Back-end* e o *Front-end*, mas nem sempre o desenvolvimento dos 
+ dois lados é feito da melhor forma. Pensando nisso o Fox Framework surgiu com o objetivo de facilitar a mão 
  de obra e o desenvolvimento do lado Front-end, melhorando o desempenho do sistema e tendo preocupação com 
  requisitos que os desenvolvedores não se preocupam muito; como acessibilidade, responsividade, UX Design e UI Design. 
  
  **02. Escopo** 
  
- O Projeto FOX FRAMEWORK tem como objetivo descomplicar e acelerar o desenvolvimento de Interface e Design de novos Sistemas. 
+ O Projeto FOX FRAMEWORK tem como objetivo descomplicar e acelerar o desenvolvimento de Interface e Design de novos Sistemas.
  Feito para ser implementado em qualquer linguagem de programação WEB, de maneira prática e rápida, o framework utiliza 
  componetes prontos em HTML, CSS e JavaScript visando melhorar a Interface e o Desempenho do Sistema de forma amigável. 
  No fim do projeto a ferramenta será disponibilizada na internet pelo endereço www.foxframework.com.br.
@@ -61,7 +62,7 @@ Súmario
   - O framework deve ser entregue dentro do prazo estipulado;
   - O framework deve ter componentes de alto nível;
   - O framework deve ter o menor tamanho possivel;
-  - O framework deve ter a maior abrangencia de componentes (HTML, CSS e JS) possivel, tendo controle de Inteface x   Desempenho;
+  - O framework deve ter a maior abrangencia de componentes (HTML, CSS e JS) possivel, tendo controle de Inteface x Desempenho;
 
  **07. Restrições**
  
