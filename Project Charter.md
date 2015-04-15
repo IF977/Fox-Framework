@@ -6,7 +6,7 @@ Elaborado por: *Rodrigo Santos* <br/>
 Data *14/04/2015* <br/>
 v1.0 <br/>
 
-O presente termo tem como objetivo formalizar o início do projeto, definindo metódos de gerencimanento, 
+O presente termo tem como objetivo formalizar o início do projeto, definindo métodos de gerenciamento, 
 planejamento, e visando relatar a documentação das suas principais entregas.
 
 Súmario
@@ -38,21 +38,21 @@ Súmario
  
  O Projeto FOX FRAMEWORK tem como objetivo descomplicar e acelerar o desenvolvimento de Interface e Design de novos Sistemas.
  Feito para ser implementado em qualquer linguagem de programação WEB, de maneira prática e rápida, o framework utiliza 
- componetes prontos em HTML, CSS e JavaScript visando melhorar a Interface e o Desempenho do Sistema de forma amigável. 
+ componetes prontos em HTML, CSS e Java Script visando melhorar a Interface e o Desempenho do Sistema de forma amigável. 
  No fim do projeto a ferramenta será disponibilizada na internet pelo endereço www.foxframework.com.br.
  
  **03. Requisitos de Alto Nível**
  
  - Desenvolver componentes de alto desempenho e interface moderna.
- - Adequar os componetes as diversas linguagens de programação.
- - Adequar TODOS os componetes a se comportarem de maneira correta em disposivitos móveis.
+ - Adequar os componentes as diversas linguagens de programação.
+ - Adequar TODOS os componentes a se comportarem de maneira correta em dispositivos móveis.
  - Fornecer as informações necessárias para o desenvolvedor utilizar a ferramenta da maneira mais eficiente e eficaz.
 
  **04. Riscos de Alto Nível**
  
  - Não cumprimento dos prazos
- - Complexidade das atividades visto que só existe um membro-chave no Proejeto
- - Sobrecarga de Taferas
+ - Complexidade das atividades visto que só existe um membro-chave no Projeto
+ - Sobrecarga de Tarefas
  - Falha na integração do framework ao sistema do úsuario final.
  
  **05. Designação do Gerente de Projeto**
@@ -63,13 +63,13 @@ Súmario
  
   - O framework deve ser entregue dentro do prazo estipulado;
   - O framework deve ter componentes de alto nível;
-  - O framework deve ter o menor tamanho possivel;
-  - O framework deve ter a maior abrangencia de componentes (HTML, CSS e JS) possivel, tendo controle de Inteface x Desempenho;
+  - O framework deve ter o menor tamanho possível;
+  - O framework deve ter a maior abragência de componentes (HTML, CSS e JS) possível, tendo controle de Interface x Desempenho;
 
  **07. Restrições**
  
   - Entrega limite: 30/06/2015;
-  - Lingaugem estabelecida : HTML, CSS, JavaScript, jQuery e  Ruby on Rails;
+  - Linguagem estabelecida : HTML, CSS, Java Script, jQuery e  Ruby on Rails;
   - Tamanho do framework não pode ultrapassar 5,0 MB;
 	
  **08. Partes Interessadas**
