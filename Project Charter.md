@@ -1,8 +1,13 @@
 #Fox Framework
 
+
+
 Elaborado por: *Rodrigo Santos* <br/>
 Data *14/04/2015* <br/>
 v1.0 <br/>
+
+O presente termo tem como objetivo formalizar o início do projeto, definindo metódos de gerencimanento, 
+planejamento, e visando relatar a documentação das suas principais entregas.
 
 Súmario
 * 01. Justificativa do Projeto 
@@ -20,9 +25,6 @@ Súmario
 * 13. Histórico do Projeto
 
 <hr/>
-
- O presente termo tem como objetivo formalizar o início do projeto, definindo metódos de gerencimanento, 
- planejamento, e visando relatar a documentação das suas principais entregas.
  
  **01.  Justificativa do Projeto**
  
